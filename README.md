@@ -1,5 +1,5 @@
 因為有三大題，所以這次readme我分為三大題來講，每一小題分別講how to setup和result<br>
-##hw4_1 XBee Controlled BB Car
+## hw4_1 XBee Controlled BB Car
 (1) how to setup and run my program <br>
 1. 一開始先將車車組裝起來(就是像課程網站的那樣步驟，在下面的連結)<br>
 <https://www.ee.nthu.edu.tw/ee240500/mbed-lab-13-boe-bot-car.html>
@@ -32,7 +32,7 @@ xbee的tx接到板子的D1<br>
 因為是會動的，所以看影片會比較快，影片所在的連結如下<br>
 <https://drive.google.com/drive/folders/1WVonpZWLLrN1j5j2MCpW-5EuorRf-ZYQ?usp=sharing>
 
-##hw4_2 Line Following BB Car
+## hw4_2 Line Following BB Car
 (1) how to setup and run my program <br>
 1. 一開始先依照lab14的課程網站上面一樣，將openMV的板子裝在車車上(連結如下)<br>
 <https://www.ee.nthu.edu.tw/ee240500/mbed-lab-14-machine-vision-with-openmv-h7-plus.html>
@@ -54,7 +54,7 @@ openMV的reset接到mbed的reset<br>
 因為是會動的，所以看影片會比較快，影片所在的連結如下<br>
 <https://drive.google.com/drive/folders/1WVonpZWLLrN1j5j2MCpW-5EuorRf-ZYQ?usp=sharing>
 
-##hw4_3 BB Car Position Calibration
+## hw4_3 BB Car Position Calibration
 (1) how to setup and run my program <br>
 1. 一開始先將uLCD display和B_L4S5I_IOT01A相接，角位如下<br>
 serial rx接到D9<br>
