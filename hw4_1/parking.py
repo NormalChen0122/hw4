@@ -12,5 +12,4 @@ print("/parking/run %lf %lf %lf \n\r"%(d1, d2, direction))
 # send RPC to remote
 s.write(("/parking/run %lf %lf %lf \n\r"%(d1, d2, direction)).encode())
 time.sleep(1)
-
 s.close()
